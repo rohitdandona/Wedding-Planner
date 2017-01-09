@@ -1,4 +1,4 @@
-# wedding.py : Place people on tables of n size such that no person knows another on a table.
+# wedding.py : Place people on tables of n size such that no person knows another on that table.
 # 
 # A relationship dictionary is implemented storing a list of friends for each individual. The place_people function 
 # selects a person randomly and places him/her with a group using the relationship dictionary such that 
